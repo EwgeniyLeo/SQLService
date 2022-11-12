@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class SQRServiceTest {
+class SQLServiceTest {
     @Test
     void testSql() {
         SQLService sql = new SQLService();
